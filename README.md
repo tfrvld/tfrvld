@@ -35,7 +35,7 @@ I build end-to-end web and mobile products — from interface design to backend 
 
 ### 📊 GitHub Stats
 
-![tfrvld's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfrvld&show_icons=true&hide_title=true&count_private=true&hide_border=true)
+![tfrvld's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfrvld&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=dark)
 
 ---
 
